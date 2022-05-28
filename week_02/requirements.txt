@@ -1,0 +1,6 @@
+jupyterlab
+mlflow
+pandas
+pyarrow
+sklearn
+hyperopt
